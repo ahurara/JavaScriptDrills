@@ -14,8 +14,8 @@ const numbers = [1, 2, 3, 4, 5];
 const doubledNumbers = numbers.filter((x) => x % 2 === 0);
 console.log(doubledNumbers); // Output: [2, 4, 6, 8, 10]
 
-//map() transforms each element of an array based on a function, while filter() selectively includes
-// elements from the original array based on a condition
+//map() transforms each element of an array based on a function, 
+//filter() selectively includes elements from the original array based on a condition
 
 let z = 6;
 
